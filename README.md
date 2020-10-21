@@ -1,0 +1,2 @@
+# LabRez
+Rezolvari laborator python
