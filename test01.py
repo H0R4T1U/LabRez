@@ -3,7 +3,7 @@ def print_menu():
           "1.Introdu Lista \n"
           "2. Nr cu cei mai putini divizori. \n"
           "3. Palindrom prim\n" 
-          "4. Suma divizorilor numar prim"
+          "4. Suma divizorilor numar prim\n"
           "5. Opreste programul"
           )
 
